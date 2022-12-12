@@ -1,3 +1,3 @@
 # TempleWebsite
 
-A samll portion from the temple webiste of Service  section.
+A small portion from the temple webiste of Service  section.
